@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=BeginnerBoi1&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://randolph-santos.vercel.app?user=BeginnerBoi1&theme=omni)](https://git.io/streak-stats)
